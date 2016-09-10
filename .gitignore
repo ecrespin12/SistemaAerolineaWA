@@ -250,3 +250,5 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/WebApplication1/WebApplication1/scripts
+/WebApplication1/WebApplication1/Properties
